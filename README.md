@@ -1,11 +1,26 @@
 ![Header](https://github.com/leonidivanov884/leonidivanov884/blob/main/assets/1626025100860.jpg)
 
-## I`m Front end developer
+# I`m Front end developer
 
-About me
+## Active portfolio projects
+### 1) Social 
+(https://github.com/leonidivanov884/newSocReact-NEW)
 
+![Flutter](https://img.shields.io/badge/JavaScript-171C32?style=for-the-badge&logo=javascript)
+![Flutter](https://img.shields.io/badge/React-171C32?style=for-the-badge&logo=react)
+![Flutter](https://img.shields.io/badge/TypeScript-171C32?style=for-the-badge&logo=typescript)
+![Flutter](https://img.shields.io/badge/Redux-171C32?style=for-the-badge&logo=Redux)
+![Flutter](https://img.shields.io/badge/Redux/ToolKit-171C32?style=for-the-badge&logo=redux)
+![Flutter](https://img.shields.io/badge/sass/scss-171C32?style=for-the-badge&logo=sass)
 
-## Tools
+### 2) Excel - Only js !
+(https://github.com/leonidivanov884/EXCELWHAT)
+
+![Flutter](https://img.shields.io/badge/JavaScript-171C32?style=for-the-badge&logo=javascript)
+![Flutter](https://img.shields.io/badge/sass/scss-171C32?style=for-the-badge&logo=sass)
+
+___
+# Tools
 ![Flutter](https://img.shields.io/badge/JavaScript-171C32?style=for-the-badge&logo=javascript)
 ![Flutter](https://img.shields.io/badge/React-171C32?style=for-the-badge&logo=react)
 ![Flutter](https://img.shields.io/badge/TypeScript-171C32?style=for-the-badge&logo=typescript)
