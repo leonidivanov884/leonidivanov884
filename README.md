@@ -3,6 +3,10 @@
 # I`m Front end developer
 
 ## Active portfolio projects
+
+### 1.1) AppEventTestovoe(miniSHOP)
+(https://github.com/leonidivanov884/AppEventTest)
+
 ### 1) Social 
 (https://github.com/leonidivanov884/newSocReact-NEW)
 
